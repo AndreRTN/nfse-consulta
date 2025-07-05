@@ -12,7 +12,7 @@ API RESTful em Spring Boot para consulta de créditos constituídos com front-en
 ## Como subir o projeto completo
 
 ```bash
-git clone --recursive https://github.com/seu-usuario/nfse-consulta.git
+git clone --recursive https://github.com/AndreRTN/nfse-consulta.git
 cd nfse-consulta
 ```
 
