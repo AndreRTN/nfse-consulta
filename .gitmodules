@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AndreRTN/nfse-consulta-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AndreRTN/nfse-consulta-backend
