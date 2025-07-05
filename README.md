@@ -6,8 +6,15 @@ API RESTful em Spring Boot para consulta de créditos constituídos com front-en
 ## Pré-requisitos
 - Docker
 - Docker Compose
+- Git
+
 
 ## Como subir o projeto completo
+
+```bash
+git clone --recursive https://github.com/seu-usuario/nfse-consulta.git
+cd nfse-consulta
+```
 
 ### Comando único para subir tudo:
 ```bash
